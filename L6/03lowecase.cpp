@@ -21,4 +21,5 @@ int main()
     string str = "Akash";
     int index = str.length() - 1;
     lowerCase(str, index);
+
 }
