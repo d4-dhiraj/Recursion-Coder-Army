@@ -10,7 +10,7 @@ int minElement(int arr[], int size,int mini){
     }
 }
 int main(){
-    int arr[] = {1,2,3,4,5,6,4,8,2,3};
+    int arr[] = {1,2,3,4,5,6,4,8,-2,3};
     int size = 10;
     cout<<minElement(arr,size,arr[0])<<endl;
 }
